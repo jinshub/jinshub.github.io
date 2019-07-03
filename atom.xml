@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinshub.github.io</id>
     <title>空山新语</title>
-    <updated>2019-07-01T14:16:16.054Z</updated>
+    <updated>2019-07-03T14:22:58.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinshub.github.io"/>
     <link rel="self" href="https://jinshub.github.io/atom.xml"/>
@@ -10,32 +10,6 @@
     <logo>https://jinshub.github.io/images/avatar.png</logo>
     <icon>https://jinshub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 空山新语</rights>
-    <entry>
-        <title type="html"><![CDATA[Netflix观影姿势指南]]></title>
-        <id>https://jinshub.github.io/post/netflix-guan-ying-zi-shi-zhi-nan</id>
-        <link href="https://jinshub.github.io/post/netflix-guan-ying-zi-shi-zhi-nan">
-        </link>
-        <updated>2019-07-01T14:14:49.000Z</updated>
-        <content type="html"><![CDATA[<p>体验了几个月Netflix之后；Netflix就成为了我家看电视的唯一目的；媳妇以前喜欢看电视台，现在则乐此不疲的观看Netflix上面的韩剧，她说要看回成本；其实相对于合租的成本，单就看节目的流量而言，Netflix可以说是血亏了。</p>
-<p>对比中国的各种视频网站，比如腾讯视频和爱奇异，Netflix有几个优点是它们无可比拟的：</p>
-<p>1、Netflix有很多美剧和大片，而且隔一段时间就有新节目上线；如果没有新片上线就没人续费；所以保证上片率是Netflix主要的压力之一。Netflix的片源采购于全球各地，而不是仅仅针对欧美地区；比如《白夜追凶》和《流浪地球》，尽管没有中国观众，但是Netflix依然买下了全球线上发行的版权。
-2、提供多达4k的高清画质，假如你的宽带不错的话， 基本都能观看高清节目。</p>
-<p>3、针对全球节目都提供多语种翻译，普遍提供中日韩英意葡西法字幕，不是中国人也没关系，运气好的话，有些国外电影还有中文配音。</p>
-<p>4、没有广告，甚至没有视频推荐；不像国内的爱奇异、腾讯视频，即使买了会员，也要忍受各种推荐广告。</p>
-<p>吹爆了Netflix，那么问题来了，在中国怎样才能用电脑观看Netflix呢？下面是唯一办法：</p>
-<p>观看Netflix最重要的工具就是爱国扶梯。不过由于Netflix严格的版权限制，中国地区即使能打开它家的网站，但还是看不了节目，所以仅仅有爱国扶梯还不够，还需要一个能看Netflix的ip，如果是自己建扶梯的话，只有去各个VPS服务商碰碰运气，刷ip的过程就如同万里挑一，需要坚持不懈的毅力和命中注定的运气。网上有Netflix可用ip列表，对照ip段刷可以事半功倍；但是并不能保证刷到的ip就能用，因为Netflix随时都在封杀漏网之鱼。</p>
-<p>如果自己建扶梯的学习成本太高，也有省心省力不省钱的办法，直接找可以看Netflix的机场则可。</p>
-<p>以上为电脑观看Netflix的基础指南，照此行事，可保无虞。</p>
-<p><strong>在电视上看Netflix只需要两种工具：</strong></p>
-<p>1、路由器一台。能刷固件，安装爱国扶梯软件则可。上至千元的华硕AC88U，下至三四百的二手洋垃圾都可以，建议买预算范围内最贵的路由器，越贵的路由器，越容易获得比较好的网速和稳定性。家里的华硕AC68U，几个月无需重启；由于是一个低端路由器，缺点也很明显，通过路由器爱国之后在电脑上看youtube，视频加载速度始终没有直接通过电脑爱国之后的速度快。</p>
-<p>2、机顶盒一台。只有经过Netflix认证过的机顶盒才能正常使用APP，因此可以把面向国内的机顶盒直接排除了。SONY电视机如果有内置Netflix，这一步也可以省略。推荐亚马逊Fire TV全系列、小米国际板机顶盒Mi Box和Roku系列机顶盒，小米Mi Box可玩性相对较高，如果淘宝买不到的话，可以海淘。</p>
-<p>爱国扶梯建好之后，如果电脑上可以看Netflix，那么通过电视机观看也没有问题。</p>
-<p>首先在路由器上配置好扶梯，将机顶盒所在的ip设定为大陆白名单模式，这样做是因为Netflix的服务器很多，爱国扶梯并不能保证所有ip都会经过扶梯中转，如果遇到直连ip，Netflix就会提醒用户不在可用区而无法使用。</p>
-<p>以上是Netflix正确的观影姿势，可是你真的舍得每月花至少8.99美元购买会员吗？</p>
-<p><strong>如何才能以最低的成本观看呢？</strong></p>
-<p>Netflix有15.99美元每月的家庭套餐，足够4位用户同时享受4K高清视频，所以最省钱的办法当然是合租啦！Telegram群上有很多寻求合租的车位，可以浅尝辄止。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[孤独灵魂]]></title>
         <id>https://jinshub.github.io/post/gu-du-ling-hun</id>
